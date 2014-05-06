@@ -2383,8 +2383,7 @@
                 }, (attrs.objectequality === undefined ? false : (attrs.objectequality === 'true')));
             }
         };
-    }])
-    ;
+    }]);
 
     //still need to implement
     //sparkbars??
